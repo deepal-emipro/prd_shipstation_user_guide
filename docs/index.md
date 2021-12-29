@@ -8,10 +8,12 @@ After successfully downloading the ShipStation Odoo Connector App from the Odoo 
 Click on the Install button. Success! Now, you are ready to use the ShipStation Odoo Connector in your Odoo.
 
 <details><summary><b>1. Create and configure the shipping instance</b></summary>
-  <p>1.1 Shipstation market place </p>
-  <p>1.2 Shipstation store </p>
-  <p>1.3 Shipstation sync </p>
-  <p>1.4 Shipstation email notification </p>
+  <p>
+    <br>&emsp;1.1 Shipstation market place
+    <br>&emsp;1.2 Shipstation store
+    <br>&emsp;1.3 Shipstation sync
+    <br>&emsp;1.4 Shipstation email notification
+  </p>
 </details>
   
 
@@ -20,4 +22,4 @@ This connector aims to make retailers exceptionally efficient at processing, ful
 
 Navigate to ShipStation / Configuration / Shipping Instance and click on the Create button to create the new instance. All the other instances that were configured earlier will be visible in this section. You can modify it if required.
 
-![Instance](/assets/images/ir_attachment_33313.png)
+![Instance](/blob/master/assets/images/ir_attachment_33313.png)
