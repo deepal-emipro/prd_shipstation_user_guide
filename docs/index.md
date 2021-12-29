@@ -22,4 +22,4 @@ This connector aims to make retailers exceptionally efficient at processing, ful
 
 Navigate to ShipStation / Configuration / Shipping Instance and click on the Create button to create the new instance. All the other instances that were configured earlier will be visible in this section. You can modify it if required.
 
-![Instance](/blob/master/assets/images/ir_attachment_33313.png)
+![Instance](/prd_shipstation_user_guide/blob/master/assets/images/ir_attachment_33313.png)
