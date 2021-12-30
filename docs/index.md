@@ -1,4 +1,4 @@
-# Shipstation Odoo Connector
+# <p align="center"> Shipstation Odoo Connector </p>
 
 ## Overview
 The ShipStation team has long been one of the industry leaders in withholding, fulfilling, and shipping orders from the most popular marketplaces and shopping carts using the most popular carriers. With the ShipStation Odoo Shipping Connector app, you can perform all the functions of the backend directly on Odoo, no matter what the size of your company is. Offer your customers more choice with numerous options for shipping.
@@ -23,3 +23,5 @@ This connector aims to make retailers exceptionally efficient at processing, ful
 Navigate to ShipStation / Configuration / Shipping Instance and click on the Create button to create the new instance. All the other instances that were configured earlier will be visible in this section. You can modify it if required.
 
 ![Instance](https://www.emiprotechnologies.com/website/image/ir.attachment/33313_fad4fd4/datas)
+
+> **This feature is supported when a customer is using the Shipstation brand tracking page feature.**
