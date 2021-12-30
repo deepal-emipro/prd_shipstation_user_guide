@@ -7,14 +7,14 @@ The ShipStation team has long been one of the industry leaders in withholding, f
 After successfully downloading the ShipStation Odoo Connector App from the Odoo store or Emipro shop, place it on the Odoo Add-ons path or at any other desired path. Now, restart the Odoo instance and navigate to Apps in the dashboard. Click on Update Apps List from the menu. Once it completes loading successfully, the ShipStation Odoo Connector will be visible in Apps.
 Click on the Install button. Success! Now, you are ready to use the ShipStation Odoo Connector in your Odoo.
 
-<!-- <details><summary><b>1. Create and configure the shipping instance</b></summary>
+<details><summary><b>1. Create and configure the shipping instance</b></summary>
   <p>
     <br>&emsp;1.1 Shipstation market place
     <br>&emsp;1.2 Shipstation store
     <br>&emsp;1.3 Shipstation sync
     <br>&emsp;1.4 Shipstation email notification
   </p>
-</details> -->
+</details>
   
 
 ### 1. Create and configure shipping instance
