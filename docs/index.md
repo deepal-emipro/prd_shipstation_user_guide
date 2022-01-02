@@ -3,7 +3,7 @@
 ## Table of contant
 - [Overview](#Overview)
 - [Installation](#Installation)
-  - 1. Create and configure shipping instance(#1. Create and configure shipping instance)
+  - [1. Create and configure shipping instance](#Create-and-configure-shipping-instance)
 
 ## Overview
 The ShipStation team has long been one of the industry leaders in withholding, fulfilling, and shipping orders from the most popular marketplaces and shopping carts using the most popular carriers. With the ShipStation Odoo Shipping Connector app, you can perform all the functions of the backend directly on Odoo, no matter what the size of your company is. Offer your customers more choice with numerous options for shipping.
@@ -13,7 +13,7 @@ After successfully downloading the ShipStation Odoo Connector App from the Odoo 
 Click on the Install button. Success! Now, you are ready to use the ShipStation Odoo Connector in your Odoo.
  
 
-### 1. Create and configure shipping instance
+### Create and configure shipping instance
 This connector aims to make retailers exceptionally efficient at processing, fulfilling, and shipping their eCommerce orders. To start with, creating and configuring shipping instances in Odoo post successful installation will be the first step to start our successful integration. 
 
 Navigate to ShipStation / Configuration / Shipping Instance and click on the Create button to create the new instance. All the other instances that were configured earlier will be visible in this section. You can modify it if required.
