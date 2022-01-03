@@ -1,4 +1,4 @@
 About
 {:toc}
 
-{% include_relative about %}
+{% include_relative about/about.md %}
