@@ -1,5 +1,5 @@
-layout: page
-title: "About"
-permalink: /about/
-
-# This is about page
+---
+title: About1
+layout: template
+filename: about.md
+---
