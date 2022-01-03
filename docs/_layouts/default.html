@@ -11,14 +11,14 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <div>
-        <div id="table-of-contents">
-          {% toc %}
-        </div>
-        <div id="markdown-content">
-          {{ content }}
-        </div>
-      </div>
+      
+      {% for page in site.pages %}
+        <a href={{ page.filename }}>{{ page.title }}</a>
+      {% endfor %}
+      
+      <section id="main-content">
+        {{ content | toc }}
+      </section>
       
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
