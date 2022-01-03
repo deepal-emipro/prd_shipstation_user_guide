@@ -17,7 +17,8 @@
       {% endfor %} -->
       
       <section id="main-content">
-        {{ content | toc }}
+        {% include toc.html html=content %}
+        {{ content }}
       </section>
       
       {% if site.github.private != true and site.github.license %}
