@@ -8,12 +8,33 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    
+    <style>
+      .column {
+        float: left;
+        width: 33.33%;
+      }
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+    </style>
+    
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">      
       <section id="main-content">
-        {% include toc.html html=content %}
-        {{ content }}
+        
+        <div class="row">
+  <div class="col-md-2">{% include toc.html html=content %}</div>
+  <div class="col-md-10">{{ content }}</div>
+]</div>
+        
+        
+        
       </section>
       
       {% if site.github.private != true and site.github.license %}
