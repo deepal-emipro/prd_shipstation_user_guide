@@ -1,5 +1,5 @@
 ---
 title: About1
 layout: template
-filename: about.md
+filename: pages/about.md
 ---
