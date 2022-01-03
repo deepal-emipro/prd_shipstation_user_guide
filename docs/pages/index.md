@@ -1,1 +1,5 @@
-# This is index file
+---
+title: About
+layout: template
+filename: index.md
+---
