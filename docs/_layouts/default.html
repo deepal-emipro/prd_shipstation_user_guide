@@ -19,12 +19,10 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-<!--       {% for page in site.pages %}
-        <a href={{ page.filename }}>{{ page.title }}</a>
-      {% endfor %} -->
-      
+    <div class = "vertical">
+      {% include toc.html html=content %}
+    </div>
+    <div class="container-lg px-3 my-5 markdown-body">      
       <section id="main-content">
         {% include toc.html html=content %}
         {{ content }}
