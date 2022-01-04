@@ -1,2 +1,2 @@
-{% include_relative /github/workspace/docs/overview/pages/overview.md %}
+{% include_relative pages/overview.md %}
 
