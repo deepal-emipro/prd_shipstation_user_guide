@@ -1,2 +1,2 @@
-{% include_relative overview/overview.md %}
+{% include_relative pages/overview.md %}
 
