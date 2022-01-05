@@ -31,17 +31,14 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">      
       <section id="main-content">
-        
         <div class="row">
-  <div class="column1">{% include toc.html html=content %}</div>
-  <div class="column2">{{ content }}</div>
-</div>
-        
-        
-        
+          <div class="column1">{% include toc.html html=content ordered=true %}</div>
+          <div class="column2">{{ content }}</div>
+        </div>
       </section>
       
       {% if site.github.private != true and site.github.license %}
+      
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
         This site is open source. {% github_edit_link "Improve this page" %}.
       </div>
