@@ -3,3 +3,4 @@
 
 {% include_relative 01_overview/01_overview.md %}
 {% incoude_relative 02_installtion/02_installation.md %}
+{% include_relative 03_shipping_instance/03_shipping_instance.md%}
