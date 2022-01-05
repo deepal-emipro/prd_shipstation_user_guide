@@ -39,4 +39,6 @@ Click on the Sync button. It will Sync Marketplaces, Stores, Carriers, Services,
 Email Shipment Notification via Email is the requirement for any online seller, specifically when shipment takes days to reach the destination. A shipment notification email is a feature to notify the customer about their shipment with the tracking details. To enable this feature go to **Shipstation / Configurations / Shipping instance** and enable the **Auto Send Shipment Email** checkbox. You need to provide a link to the [Shipstation Branded Tracking Page](https://help.shipstation.com/hc/en-us/articles/360026158351-Branded-Tracking-Page). This link will be included in the email. You will also get an email notification when the tracking number is available.
 ![08_shipping_instance](03_shipping_instance/images/08_shipping_instance.png)
 
+> ***This feature is supported when a customer is using the Shipstation brand tracking page feature.***
+
 <!------------------------------------------------------------------------------------------------------------------------------->
